@@ -22,7 +22,7 @@ namespace TelegramBot
 		public static string Token { set; get; } = @"452723579:AAFVaFR6RidJKHAy8j7xn1jAVJilGgY8PNU";
 		public static int LastUpdateID { set; get; } = 0;
 
-		static void SendMessage(string message, int chatid)
+		public static void SendMessage(string message, int chatid)
 		{
 			using (var webClient = new WebClient())
 			{

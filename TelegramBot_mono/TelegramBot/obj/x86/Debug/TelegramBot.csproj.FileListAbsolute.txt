@@ -1,0 +1,5 @@
+C:\Users\Piter\Documents\FORGIT\TelegramBot_mono\TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\Piter\Documents\FORGIT\TelegramBot_mono\TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\Piter\Documents\FORGIT\TelegramBot_mono\TelegramBot\obj\x86\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\Piter\Documents\FORGIT\TelegramBot_mono\TelegramBot\obj\x86\Debug\TelegramBot.exe
+C:\Users\Piter\Documents\FORGIT\TelegramBot_mono\TelegramBot\obj\x86\Debug\TelegramBot.pdb

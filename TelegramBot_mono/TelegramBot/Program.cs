@@ -39,8 +39,8 @@ namespace TelegramBot
 
 					Console.WriteLine("Пришло сообщение: {0}", r["message"]["text"]);
 
-					//SendMessage("Я получил твоё сообщение", r["message"]["chat"]["id"].AsInt);
-					TelegrammApi.SendPhoto(r["message"]["chat"]["id"], "0.png").Wait();
+                    TelegrammApi.SendMessage("Я получил твоё сообщение", r["message"]["chat"]["id"].AsInt);
+					//TelegrammApi.SendPhoto(r["message"]["chat"]["id"], "0.png").Wait();
 				}
 			}
 		}
