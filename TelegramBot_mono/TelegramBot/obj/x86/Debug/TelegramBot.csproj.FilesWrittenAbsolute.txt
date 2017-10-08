@@ -1,0 +1,5 @@
+/home/o/Рабочий стол/TelegramBot/TelegramBot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/o/Рабочий стол/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe.mdb
+/home/o/Рабочий стол/TelegramBot/TelegramBot/bin/Debug/TelegramBot.exe
+/home/o/Рабочий стол/TelegramBot/TelegramBot/obj/x86/Debug/TelegramBot.exe
+/home/o/Рабочий стол/TelegramBot/TelegramBot/obj/x86/Debug/TelegramBot.exe.mdb
